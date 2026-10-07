@@ -29,6 +29,8 @@ Use the full path; in zsh, `log` is a shell builtin.
 /usr/bin/log show --last 1h --predicate 'subsystem == "com.dogonthehorizon.gh-auto"' --style compact
 ```
 
-## Credits
+## License
 
-Menu bar icon: `git-pull-request-16` from [Primer Octicons](https://github.com/primer/octicons) (MIT).
+MIT. See [LICENSE](LICENSE).
+
+The menu bar icon is `git-pull-request-16` from [Primer Octicons](https://github.com/primer/octicons), © GitHub Inc., MIT licensed. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
