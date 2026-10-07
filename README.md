@@ -1,5 +1,8 @@
 # gh-auto
 
+> [!WARNING]
+> This project is vibecoded. It was written with an AI coding agent and has not been closely reviewed by a human operator. Read the code before you run it, and use it at your own risk.
+
 A menu bar app that shows your open GitHub pull requests. It replaces Arc's "Pull Requests" live folder, which broke when GitHub moved `github.com/pulls` to a client-rendered React app.
 
 - Auth comes from the `gh` CLI (`gh auth token`). There is nothing to configure.
